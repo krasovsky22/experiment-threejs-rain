@@ -11,6 +11,7 @@ class App extends React.PureComponent {
   componentDidMount() {
     if (this.canvasRef.current) {
       new RainAnimation(this.canvasRef.current);
+      this.audio.muted = false;
       this.audio.play();
 
       this.audio.addEventListener(
