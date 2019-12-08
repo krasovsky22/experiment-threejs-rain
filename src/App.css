@@ -5,3 +5,29 @@ body {
   background: black;
   overflow: hidden;
 }
+
+.player {
+  position: absolute;
+  left: 5vw;
+  top: 5vh;
+  color: white;
+  width: 5vw;
+  height: 5vh;
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
+
+.player:after {
+  border: none;
+}
+
+.player:focus {
+  border: none;
+  outline: 0;
+}
+
+.player:active:after {
+  border: none;
+  outline: 0;
+}
