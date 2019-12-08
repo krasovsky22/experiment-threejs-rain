@@ -1,5 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![screenshot](public/screenshot.png)
 
 ## Rain Affect created with Threejs
 
-Its just small experiment... 8)
+It's just small experiment... 8)
+
+[Demo](http://rain.vladkrasovski.com)
