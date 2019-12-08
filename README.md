@@ -4,4 +4,4 @@
 
 It's just small experiment... 8)
 
-[Demo](http://rain.vladkrasovski.com)
+[Demo](http://rain.vladkrasovski.com){:target="\_blank" rel="noopener"}
